@@ -8,6 +8,8 @@ namespace newArrayMatrix
         {
             try
             {   // inputing the dimesions of the matrix
+
+                Console.WriteLine("*********************** Welcome to the determinant and squared matrix calculator********************");
                 Console.WriteLine("Provide the  desired value");
                 int firstValue = int.Parse(Console.ReadLine());
 
